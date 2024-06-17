@@ -1,6 +1,8 @@
 # mount NFS shares
 
 ```
+MOunt the NFS share on all nodes of the cluster
+
 mount 192.168.125.90:/wikipedia /mnt/wikipedia
 
 ```
